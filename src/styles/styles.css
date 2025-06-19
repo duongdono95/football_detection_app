@@ -1,0 +1,20 @@
+QMainWindow {
+
+}
+QLabel {
+  font-size:  16px;
+}
+QPushButton{
+  font-size:  16px;
+  padding: 10px;
+}
+
+QFrame {
+  /* background-color: #f3f6fb; */
+}
+
+#title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
